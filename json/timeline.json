@@ -1,0 +1,21 @@
+{
+	"Messages":[
+		{"author": "Socio1 ",
+		"avatar": "images/socio1.png",
+		"title": "Horario de la reunion",
+		"content": "Se le olvidaba comentar a mi socio que la hora de la reunion sera a las 12:00 en la sala de reuniones de la segunda planta",
+		"date": "07/04/2016"},
+
+    {"author": "Socio3 ",
+		"avatar": "images/socio3.png",
+		"title": "Nueva incorporacion",
+		"content": "Se ha incoporado Socio9 a la empresa, darle la bienvenida y ayudarle en todo lo que sea posible",
+		"date": "11/04/2016"},
+
+    {"author": "Socio9 ",
+		"avatar": "images/socio9.png",
+		"title": "gracias por esta semana",
+		"content": "Gracias a todos mis compañeros por la acogida que he tenido esta empresa, que se me ha tratado como uno mas desde el primer momento",
+		"date": "15/04/2016"}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "Nmsg": "2",
+	"Messages":[
+		{"author": "Socio4 ",
+		"avatar": "images/socio4.png",
+		"title": "Presentacion del nuevo producto terminado",
+		"content": "Mañana sera la presentacion del nuevo producto, todo el que quiera puede asistir a dicha presentacion, sera en el sala de conferencias a las 19:00",
+		"date": "25/04/2016"},
+
+    {"author": "Socio6 ",
+		"avatar": "images/socio6.png",
+		"title": "Nos deja Socio8",
+		"content": "Por motivos personales Socio8 nos deja, solo darle las gracias por el trabajo realizado, y que le vaya bien en su nueva aventura",
+		"date": "26/04/2016"}
+	]
+}

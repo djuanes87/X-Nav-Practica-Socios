@@ -1,0 +1,22 @@
+{
+	"Messages":[
+		{"author": "djuanes87 ",
+		"avatar": "images/me.png",
+		"title": "Reunion Importante",
+		"content": "Solo recordar que tenemos una reunion el proximo Martes",
+		"date": "05/04/2016"},
+
+    {"author": "djuanes87 ",
+		"avatar": "images/me.png",
+		"title": "Asistencia",
+		"content": "Solo agradeceros a todos la asistencia a la reunion",
+		"date": "12/04/2016"},
+
+    {"author": "djuanes87 ",
+		"avatar": "images/me.png",
+		"title": "Cafe y bollos",
+		"content": "Chicos/as hemos traido algo de bolleria para mojar en el cafe, estan en la cocina.",
+		"date": "15/04/2016"}
+
+	]
+}
