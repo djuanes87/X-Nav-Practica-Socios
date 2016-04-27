@@ -7,6 +7,6 @@ Vamos a construir parte del interfaz de usuario de la aplicación Socios, una nu
 
 ##Socios
 
-<a href="djuanes.github.io/X-Nav-Practica-Socios"> Practica Socios </a>
+<a href="http://djuanes87.github.io/X-Nav-Practica-Socios/"> Practica Socios </a>
 
 ##Datos
